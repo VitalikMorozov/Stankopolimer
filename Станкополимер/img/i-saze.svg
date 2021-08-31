@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="300px" height="300px" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 300 300"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#E42129}
+    .fil0 {fill:#E84747}
+    .fil2 {fill:white}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0" cx="150" cy="150" r="150"/>
+  <path class="fil1" d="M254 97l46 46c0,2 0,5 0,7 0,83 -67,150 -150,150 -2,0 -4,0 -7,0l-96 -96 0 -107 18 0 189 0z"/>
+  <g id="_359086269296">
+   <polygon class="fil2" points="72,150 89,140 106,130 106,140 194,140 194,130 211,140 228,150 211,160 194,170 194,159 106,159 106,170 89,160 "/>
+   <polygon class="fil2" points="47,97 65,97 65,204 47,204 "/>
+   <polygon class="fil2" points="235,97 254,97 254,204 235,204 "/>
+   <path class="fil2" d="M79 97c2,0 4,2 4,4 0,2 -2,4 -4,4 -3,0 -4,-2 -4,-4 0,-2 1,-4 4,-4z"/>
+   <g>
+    <path class="fil2" d="M97 97c2,0 4,2 4,4 0,2 -2,4 -4,4 -3,0 -4,-2 -4,-4 0,-2 1,-4 4,-4z"/>
+    <path class="fil2" d="M114 97c3,0 4,2 4,4 0,2 -1,4 -4,4 -2,0 -4,-2 -4,-4 0,-2 2,-4 4,-4z"/>
+    <path class="fil2" d="M132 97c3,0 4,2 4,4 0,2 -1,4 -4,4 -2,0 -4,-2 -4,-4 0,-2 2,-4 4,-4z"/>
+    <path class="fil2" d="M150 97c2,0 4,2 4,4 0,2 -2,4 -4,4 -2,0 -4,-2 -4,-4 0,-2 2,-4 4,-4z"/>
+    <path class="fil2" d="M168 97c2,0 4,2 4,4 0,2 -2,4 -4,4 -2,0 -4,-2 -4,-4 0,-2 2,-4 4,-4z"/>
+    <path class="fil2" d="M186 97c2,0 4,2 4,4 0,2 -2,4 -4,4 -2,0 -4,-2 -4,-4 0,-2 2,-4 4,-4z"/>
+    <path class="fil2" d="M204 97c2,0 4,2 4,4 0,2 -2,4 -4,4 -2,0 -4,-2 -4,-4 0,-2 2,-4 4,-4z"/>
+   </g>
+   <path class="fil2" d="M222 97c2,0 4,2 4,4 0,2 -2,4 -4,4 -3,0 -4,-2 -4,-4 0,-2 1,-4 4,-4z"/>
+   <path class="fil2" d="M79 196c2,0 4,2 4,4 0,2 -2,4 -4,4 -3,0 -4,-2 -4,-4 0,-2 1,-4 4,-4z"/>
+   <g>
+    <path class="fil2" d="M97 196c2,0 4,2 4,4 0,2 -2,4 -4,4 -3,0 -4,-2 -4,-4 0,-2 1,-4 4,-4z"/>
+    <path class="fil2" d="M114 196c3,0 4,2 4,4 0,2 -1,4 -4,4 -2,0 -4,-2 -4,-4 0,-2 2,-4 4,-4z"/>
+    <path class="fil2" d="M132 196c3,0 4,2 4,4 0,2 -1,4 -4,4 -2,0 -4,-2 -4,-4 0,-2 2,-4 4,-4z"/>
+    <path class="fil2" d="M150 196c2,0 4,2 4,4 0,2 -2,4 -4,4 -2,0 -4,-2 -4,-4 0,-2 2,-4 4,-4z"/>
+    <path class="fil2" d="M168 196c2,0 4,2 4,4 0,2 -2,4 -4,4 -2,0 -4,-2 -4,-4 0,-2 2,-4 4,-4z"/>
+    <path class="fil2" d="M186 196c2,0 4,2 4,4 0,2 -2,4 -4,4 -2,0 -4,-2 -4,-4 0,-2 2,-4 4,-4z"/>
+    <path class="fil2" d="M204 196c2,0 4,2 4,4 0,2 -2,4 -4,4 -2,0 -4,-2 -4,-4 0,-2 2,-4 4,-4z"/>
+   </g>
+   <path class="fil2" d="M222 196c2,0 4,2 4,4 0,2 -2,4 -4,4 -3,0 -4,-2 -4,-4 0,-2 1,-4 4,-4z"/>
+  </g>
+ </g>
+</svg>
